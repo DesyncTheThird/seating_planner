@@ -73,4 +73,4 @@ CONTACT
 ===============
 WRITTEN IN PYTHON 3.8.1
 CREATED BY Ryan JK Liu/Desync
-SOURCE CODE AVAILABLE AT: <https://github.com/LordDesync/seating_planner>
+SOURCE CODE AVAILABLE AT: <https://github.com/DesyncTheThird/seating_planner>
